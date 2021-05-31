@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageProject>https://github.com/fabian-blum/AspNetCore.Identity.LiteDB</PackageProject>
-    <PackageLicense>https://github.com/fabian-blum/AspNetCore.Identity.LiteDB/blob/master/LICENSE</PackageLicense>
+    <PackageProject>https://github.com/nguyentuevuong/AspNetCore.Identity.LiteDB</PackageProject>
+    <PackageLicense>https://github.com/nguyentuevuong/AspNetCore.Identity.LiteDB/blob/master/LICENSE</PackageLicense>
     <Authors>Fabian Blum</Authors>
     <Company />
     <Description>A LiteDB provider for ASP.NET Core Identity framework</Description>
@@ -13,8 +13,8 @@
     <AssemblyVersion>5.0.10</AssemblyVersion>
     <FileVersion>5.0.10</FileVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/fabian-blum/AspNetCore.Identity.LiteDB</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/fabian-blum/AspNetCore.Identity.LiteDB</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/nguyentuevuong/AspNetCore.Identity.LiteDB</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nguyentuevuong/AspNetCore.Identity.LiteDB</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
