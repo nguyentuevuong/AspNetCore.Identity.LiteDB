@@ -17,6 +17,7 @@ namespace AspNetCore.Identity.LiteDB
       }
 
       public string Type { get; set; }
+      
       public string Value { get; set; }
 
       public Claim ToSecurityClaim() => new Claim(Type, Value);
